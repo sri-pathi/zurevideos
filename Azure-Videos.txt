@@ -1,0 +1,67 @@
+1. Cloud Fundamentals - Session Recording 
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/EfJhanodySRPuhAcmRXPTREBoDMZl3Bx4jmtXVv_CCT_ZQ?e=ghu1dL
+
+2. Azure Basics - Session Recording
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/EdOLGrzFx3JBhJ6JNskKO-gBGmESfi42fOgUBzlHt38S7A?e=RKT9it
+
+3. VM Features - Session Recording
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/EaNmheia1hxNgBDf0IN3SjABWtOrfzzniU17IXfnERTvfQ?e=cdLrZq
+
+4. Integration Services - Recording Session 
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/ES3qMRjwDS5HvTC5nygurIEBIpG_rGJRgnJTf7o6qSGDgg?e=TYd9ce
+
+5. Azure AD Part 1 and 2 - Session Recording
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/Ea6GEW81Z1BAoadTj00czEwBpo40E-yvvJb8oEuG-UnIfw?e=apHoN5
+
+6. Storage Services Part 1  - Session Recording
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/EWCDGSLrGbpMnRwe5cymdqMBMTEiCcaOIhZF-zzDLrgxcQ?e=oE7hFw
+
+7. Storage Services Part 1 of 2 - Session Recording
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/EcS7VyHYbHNMt7iDlKuc06oB3kf1djRVjpj0y2CogS3X0Q?e=wyAuc2
+
+8. Storage Services Part 2 - Session Recording 
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/EWfntQe4R-xCigFNfecnAOoBYFfKsL6IJwA8wMOjyqgnAg?e=y3Tlde
+
+9. Azure Networking Services Part 1 - Session Recording
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/EbUgdmH6osxEt-pHJWqp5OwBz27530KPJLM3LO1xfBFiBg?e=Zoj49C
+
+10. Azure Networking Services Part 2 - Session Recording
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/EaKTSN0g4GxKpnkyTHjCWw4Bqqvxrjqc4zMH-gLrMcizRg?e=cQs3kc
+
+11. Azure Networking Services Part 3 - Session Recording
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/ERDjtnK0rW9DhDURXuncisgBDVYbjl6IslvD1iPZkR_35g?e=n8Xofb
+
+12. Azure Networking Services Part 4 - Session Recording
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/ESw15wQ0cVpLuqusaGcYEcUBeQK7NVn2khv_xaN9MNrjJg?e=emqQY1
+
+13. Azure Networking Services Part 5 - Session Recording
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/ERS6A7a6P_pNrRIzvMVL0F0BZjM6_LldSvF89AfzXq6nXg?e=fMWsb9
+
+14. Azure Networking Services Part 6 and 7 - Session Recording
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/EX_IZmONKwRGnOQMRE4EZloBj-1OvjzR7iTnbaouUS2bvg?e=sQV8DY
+
+15. ARM Part 1 - Session Recording 
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/EQapf-5mvUNPvRvW6HxAeCoB2Z3DaPVWeU2q1oUzhZRcjQ?e=hvHSk8
+
+16. ARM Part 2 - Session Recording 
+
+	https://mjrrsi-my.sharepoint.com/:v:/g/personal/krithika_azure_mjrrsi_onmicrosoft_com/EbyTolRbK2FInyfS537eXLUB7OvtpKmO3ULfjk1dQdecFA?e=0vA4Et
+
+
+Notes:
+
+https://mjrrsi-my.sharepoint.com/:f:/g/personal/marimuthusethu_mjrrsi_onmicrosoft_com/Euca06PZoKxAiD1njjtD2XMB7XZYuXJGeQzd_IBEmM8fBw?e=Eia5MH
